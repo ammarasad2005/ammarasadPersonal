@@ -1,0 +1,30 @@
+# Build artifacts
+*.obj
+*.exe
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# Assembly listings
+*.lst
+*.cod
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# Debug files
+*.map
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
