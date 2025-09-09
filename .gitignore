@@ -1,0 +1,48 @@
+# Build directories
+build/
+cmake-build-*/
+*.build/
+
+# Compiled executables
+hangman
+test_wm
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dll
+*.dylib
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary test files
+test_*
+!test_*.cpp
+
+# Debug files
+*.dSYM/
+*.pdb
